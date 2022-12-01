@@ -9,8 +9,8 @@
 * How to control a chrome browser 
 * CI with selenium
 * Get acquainted with an interesting site: [guru99](https://demo.guru99.com/v4/)
-* Code how to get an element in html 
-*...
+* Code how to get an element in html </br>
+...
 
 </div>
 
@@ -22,7 +22,11 @@
 
 > ![selenium to go](https://github.com/unique-idea/selenium-2-go/blob/main/screen-shot/Screenshot%202022-12-01%20135448.png)
 
+#
+
 > ![selenium to go](https://github.com/unique-idea/selenium-2-go/blob/main/screen-shot/Screenshot%202022-12-01%20135538.png)
+
+#
 
 >  ![selenium to go](https://github.com/unique-idea/selenium-2-go/blob/main/screen-shot/Screenshot%202022-12-01%20135734.png)
 >>
