@@ -3,12 +3,12 @@
 # Welcome to Selenium to go
 
 
-### You will find in this repo the following stuff:[guru99](https://demo.guru99.com/v4/)
+### You will find in this repo the following stuff:
 
 
 * How to control a chrome browser 
 * CI with selenium
-* Get acquainted with an interesting site guru99: 
+* Get acquainted with an interesting site: [guru99](https://demo.guru99.com/v4/)
 * Code how to get an element in html 
 *...
 
@@ -20,9 +20,11 @@
 # Screen-shots
 
 
-> ![Build process with maven](https://github.com/unique-idea/math-util-maven/blob/main/screen-shot/Screenshot%202022-12-01%20132906.png)
+> ![selenium to go](https://github.com/unique-idea/selenium-2-go/blob/main/screen-shot/Screenshot%202022-12-01%20135448.png)
 
-> ![DDT source code with maven](https://github.com/unique-idea/math-util-maven/blob/main/screen-shot/Screenshot%202022-12-01%20133747.png)
+> ![selenium to go](https://github.com/unique-idea/selenium-2-go/blob/main/screen-shot/Screenshot%202022-12-01%20135538.png)
+
+>  ![selenium to go](https://github.com/unique-idea/selenium-2-go/blob/main/screen-shot/Screenshot%202022-12-01%20135734.png)
 >>
 
 
