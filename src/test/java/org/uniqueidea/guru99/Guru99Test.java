@@ -35,6 +35,7 @@ public class Guru99Test {
     public void checkLoginGivenRightAccountShowWelcomeMsg() throws InterruptedException {
         //cac ham test chay o dau
         // di tim cac o nhap user/pass, dua data vao, nhan login
+        //Replace it by user and password that you have register in guru99
         String username = "mngr451807";
         String password = "juzazAh";
         myBrowser.get("https://demo.guru99.com/v4/");
